@@ -1,6 +1,6 @@
 # Movie Info App - Flutter UI
 
-## Regarder La video sur Youtube(https://youtu.be/dssRdo2YleQ)
+## [Regarder la video sur Youtube] (https://youtu.be/dssRdo2YleQ)
 
 **Packages we are using:**
 
